@@ -701,4 +701,6 @@ type Universal = Combinable & Numeric; // Universal is number because it's the o
 - **Nullable types** use union types to handle `null` and `undefined`.
 - **Combining union and intersection types** allows for complex type definitions.
 
-Union types in TypeScript provide flexibility while maintaining type safety, enabling you to write robust and maintainable code. If you have specific questions or need further examples, feel free to ask!
+Union types in TypeScript provide flexibility while maintaining type safety, enabling you to write robust and maintainable code. 
+
+[Back To Top](#typescript)
